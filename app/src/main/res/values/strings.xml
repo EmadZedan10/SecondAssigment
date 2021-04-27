@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assigment2</string>
+    <string name="gender">Gender:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="first_name">First Name:</string>
+    <string name="contact_information">Contact Information:</string>
+    <string name="personal_information">Personal Information:</string>
+    <string name="email_address">Email Address:</string>
+    <string name="cv_creator">CV Creator</string>
+    <string name="male">Male</string>
+    <string name="address">Address</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="female">Female</string>
+    <string name="next_step">Next Step</string>
+    <string name="todo">TODO</string>
+    <string name="mother_language">Mother Language:</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="skills">Skills</string>
+    <string name="save">Save</string>
+</resources>
